@@ -1,25 +1,22 @@
-# python-lvl3-mezuniyyet
+# 🤖 Discord Departmanlı Soru–Cevap Botu
 
-1. Eski projelerden kopyalayabileceğiniz kod parçaları var mı?
-Evet var
+Bu proje, **departmanlara göre çalışan gelişmiş bir soru–cevap Discord botudur**.  
+Bot; **Slash Command**, **Modal**, **Select Menu** ve **SQLite veritabanı** kullanır.
 
-2. Peki ya diğerleri: Sıfırdan yazmanız gereken bölümler neler?
-   orulara otomatik olarak cevap verebilmesi
+---
 
-2. Hangi konularda kesinlikle yardıma ihtiyaç duyacaksınız, hangilerini kendi başınıza halledebilirsiniz?
-   Buton ve Modul kodlari
+## 🚀 Özellikler
 
+- 📂 Departman bazlı soru–cevap sistemi  
+- 💬 Discord Slash Commands  
+- 🧩 Select Menu & Modal arayüzü  
+- 🗄️ SQLite veritabanı  
+- ⚡ Hızlı ve kullanıcı dostu yapı  
 
-# Özet Akış
+---
 
-1. Kullanıcı !ctg yazar
+## 📌 Komutlar
 
-2. Bot button gönderir
-
-2. Kullanıcı buttona basar → modal açılır
-
-4. Kullanıcı modalı doldurur → submit
-
-5. Bot dropdown menü ile soruları gösterir
-
-6. Kullanıcı bir soru seçer → bot cevabı gösterir
+```text
+/ctg   → Soru sistemini başlatır
+/info  → Bot hakkında bilgi verir
